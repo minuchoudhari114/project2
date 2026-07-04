@@ -58,7 +58,7 @@ Welcome to the Pattern Generator and Number Analyzer!
 
 ## Author
 
-Your Name
+minaxi
 
 ## License
 
