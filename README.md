@@ -60,6 +60,3 @@ Welcome to the Pattern Generator and Number Analyzer!
 
 minaxi
 
-## License
-
-MIT License
